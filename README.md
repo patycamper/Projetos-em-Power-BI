@@ -1,12 +1,14 @@
 # Olá — eu sou Paty Camper 👋
 
-Sou estudante e apaixonada por Análise de Dados com foco em Power BI. Estou aprendendo modelagem de dados, DAX, Power Query (M) e técnicas de visualização para transformar dados em histórias acionáveis.
+Tenho 16 anos de experiência em linhas de produção. Sou Formada em Tecnologia em Mecatrônica industrial,Gestão da Produção Industrial, Pós Graduando em Liderança de equipes e curso o 8° Semestre de Engenharia de Controle e Automação,meu foco é trabalhar com projetos de melhoria contínua e Análise de Dados na área Industrial. Gosto de tecnologia voltadas para a indústria 4.0 ,incluindo  Análise de Dados com foco em Power BI e Business Intelligence.
 
 ## O que eu faço
 - Crio relatórios interativos no Power BI para explorar KPIs e contar histórias de dados.
+- Análise de ocorrências  em linhas de produção.
 - Aprendo e aplico DAX para medidas e cálculos avançados.
 - Faço limpeza e transformação de dados com Power Query (M).
 - Compartilho processos, estudos de caso e exemplos de relatórios neste perfil.
+- Tenho trabalhado em projetos de KPI's,( OEE, SCRAP, QUALIDADE).
 
 ## Habilidades (em progresso)
 - Power BI Desktop / Power BI Service
@@ -24,13 +26,11 @@ Sou estudante e apaixonada por Análise de Dados com foco em Power BI. Estou apr
 
 ## Como ver meus relatórios
 - PBIX: mantenho o arquivo .pbix no repositório quando apropriado (atenção a dados sensíveis).
-- Capturas: coloque uma pasta /screenshots com imagens dos dashboards para visualização direta no GitHub.
 - Power BI Service: quando público, compartilho links "Publish to web" no README do projeto.
 - Documentação: incluo um arquivo README por projeto explicando fontes de dados, modelo e medidas principais.
 
 ## Como colaborar / contato
-- Email: [seu-email@exemplo.com] (substitua pelo seu e-mail)
-- LinkedIn: [seu-perfil] (adicione seu perfil)
+- LinkedIn: [https://www.linkedin.com/in/patriciaamanciodias/] 
 - Pull requests e issues são bem-vindos — especialmente para melhorias em documentação e exemplos.
 
 ## Tags / tópicos sugeridos para o seu perfil
