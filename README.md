@@ -21,7 +21,6 @@ Sou estudante e apaixonada por Análise de Dados com foco em Power BI. Estou apr
 - Dashboard-Clientes — protótipo de segmentação e análise de churn (pbix + imagens).
 - Data-Practice-Notebooks — notebooks e scripts para preparação de dados usados nos relatórios.
 
-(Links dos repositórios acima aparecerão assim que eu os criar aqui — quer que eu gere repositórios de exemplo para você?)
 
 ## Como ver meus relatórios
 - PBIX: mantenho o arquivo .pbix no repositório quando apropriado (atenção a dados sensíveis).
